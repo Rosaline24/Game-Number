@@ -7,7 +7,7 @@ public class TestGame extends JFrame {
 
 		// new object to invoke
 		Game g = new Game();
-		g.setTitle("U10416032,U10416035");
+		g.setTitle("Guess Number");
 		g.setSize(600,600);
 		g.setLocationRelativeTo(null); // Center the frame
 		g.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
